@@ -1,2 +1,2 @@
 # Soil_moisture_prediction
-This predictive modeling can assist farmers in making informed decisions about irrigation and crop management, optimizing water use, and enhancing agricultural productivity.
+This GitHub repository focuses on soil moisture prediction using various meteorological parameters, such as temperature, humidity, pressure, wind speed, dew point, solar radiation, and soil temperature. By analyzing these data points, the project aims to utilize machine learning techniques, particularly Random Forest Regression, to forecast soil moisture levels several days in advance. This predictive modeling can assist farmers in making informed decisions about irrigation and crop management, optimizing water use, and enhancing agricultural productivity.
